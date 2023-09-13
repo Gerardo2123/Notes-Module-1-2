@@ -1,0 +1,35 @@
+•	Cybersecurity is one of the ways used to protect your security online.
+•	The risks are:
+1.	Hackers, attackers, intruders
+2.	Malicious Code or Malware
+3.	Vulnerabilities
+•	The ways to minimize risk are:
+1.	Keeping software up to date
+2.	Running UpToDate antivirus software
+3.	Strong passwords
+4.	Multi-factor authentication
+5.	Firewalls
+6.	Be suspicious of things like emails.
+•	AWS has its security responsibilities but so does the customer.
+•	IAM is Identity and Access Management and it’s a web service that helps you control access to AWS resources for your users securely.
+•	Allows to give authorization to users and permissions to use what you allow them to
+•	Some features of IAM:
+1.	Shared Access to AWS account
+2.	MFA (Multi-factor authentication)
+3.	Identity information for assurance
+4.	PCI DSS Compliance
+•	Function and roles of IAM components
+1.	IAM user
+2.	IAM group
+3.	IAM Policy
+4.	IAM role
+•	Four ways to user IAM: AWS management console, AWS Command Line Tools, AWS SDKs, IAM HTTPS API
+•	Tools cloud providers have to secure accounts are AWS organizations, AWS key management Service (KMS), Amazon Cognito and AWS Shield
+•	Five principles are for securing Devops:
+1.	Automate Security In
+2.	Build security champions.
+3.	Integrate to fail quickly.
+4.	Keep Operational Visibility
+5.	No false alarms
+•	In a DevOps environment, security isn’t responsible for making sure an application is secure – everyone is.” I like how in the Devops teams everyone is working together and figuring out the issues together, I think it helps the application or what they are working on run better.
+•	“It does this by bringing the teams together to share responsibility for software delivery and operation. This organizational alignment supports all the other activities of DevOps.” It is how I mentioned before, working in a team is more beneficial and to me more important. 
