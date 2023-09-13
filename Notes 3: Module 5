@@ -1,0 +1,32 @@
+•	AWS has Regions and Availability Zones (AZ’s)
+•	25 launched regions and 81 availability zones
+•	Selecting best regions varies on things like:
+1.	Supported AWS services.
+2.	Cost
+3.	Latency
+4.	Security and Compliance 
+5.	Service Level Agreements (SLA’s)
+•	Service Level Agreements is a document that shows the details of the service the standards provider must meet, and the commitment to the client. It is like a contract in a way to show what they are agreeing to work on or do.
+•	Data Center Concepts
+1.	Personal Computers
+2.	Servers
+3.	Clusters of Servers
+•	AWS Foundational Services
+o	Compute
+o	Storage
+o	Databases
+o	Networking
+•	AWS has 25 different categories of cloud-based services with at least 1 product in each product.
+•	Some of them are:
+o	Compute
+o	Cost
+o	Database
+o	Management
+o	Network
+o	Security
+o	Storage
+•	“You only need to pay for IT as you consume it” states the 5.1 Video. This is great because most of the time you waste money on things you think you’ll need but really don’t end up needing or using at all.
+•	“You’re able to deploy your application in multiple locations in just a few clicks”. This is a great use as you don’t have to do a whole launch for an application and go through each area, you can just select the regions and you’re set. 
+The question I have is what tends to happen if you try to launch in a remote kind of area that has no near region around? 
+
+
